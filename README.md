@@ -3,6 +3,7 @@
 Read more:
 - https://github.com/heykarimoff/solid.python/
 - https://towardsdatascience.com/solid-coding-in-python-1281392a6a94
+- https://www.youtube.com/watch?v=Mmy1EUKC_iE
 
 
 ## Structure:
